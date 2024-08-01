@@ -1,4 +1,4 @@
-https://leetcode.com/problems/two-sum/
+// https://leetcode.com/problems/two-sum/
 
 function twoSum(nums, target) {
     for(let i=0; i<nums.length-1; i++)
